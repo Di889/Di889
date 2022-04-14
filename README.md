@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Di889/Di889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Things that is important to be answered--->
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning a bit of programation
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about what do you like ?
 - 📫 How to reach me: For this page and for my email diogenes.steca@gmail.com
 - 😀 Pronouns: gurizinho
-- ⚡ Fun fact: none
--->
+- ⚡ Fun fact: nothing again
