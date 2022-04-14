@@ -1,4 +1,4 @@
-### Hi there 👋
+### eai gurizes
 
 <!--
 **Di889/Di889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
