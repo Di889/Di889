@@ -14,7 +14,7 @@
 
 
 
-### You Can Reach me thourgh
+### You Can Reach me through
 - ✉️ My Email: diogenes.steca@gmail.com
 
 
