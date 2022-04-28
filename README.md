@@ -1,6 +1,6 @@
 # Hi There👋
 
-### Thing that is important to be answered--->
+### Things that is important to be answered--->
 
 - I'm Diógenes and im studying in CTISM - Computing for web - 1/3
 - I'm Born in Santa Maria
