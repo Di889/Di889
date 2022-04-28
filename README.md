@@ -1,12 +1,28 @@
-### Hi there 👋
+# Hi There👋
 
-Things that is important to be answered--->
+###Thing that is important to be answered--->
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning a bit of programation
-- 👯 I’m looking to collaborate on nothing in priority
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about what do you like ?
-- 📫 How to reach me: For this page and for my email diogenes.steca@gmail.com
-- 😀 Pronouns: gurizinho
-- ⚡ Fun fact: nothing again
+- I'm Diógenes and im studying in CTISM - Computing for web - 1/3
+- I'm Born in Santa Maria
+
+###My Hobbies Are
+- Browse in the computer
+- Play videogames
+
+###Im Studying This programming languages
+- C
+
+
+
+###You Can Reach me thourgh
+My Email: diogenes.steca@gmail.com
+
+
+
+
+
+
+
+
+
+
