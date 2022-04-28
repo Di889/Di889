@@ -6,16 +6,16 @@
 - I'm Born in Santa Maria
 
 ###My Hobbies Are
-- Browse in the computer
-- Play videogames
+- 💻 Browse in the computer
+- 🎮 Play videogames
 
 ###Im Studying This programming languages
-- C
+- 📟 C
 
 
 
 ###You Can Reach me thourgh
-My Email: diogenes.steca@gmail.com
+- ✉️ My Email: diogenes.steca@gmail.com
 
 
 
