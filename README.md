@@ -64,7 +64,7 @@ JUST LIKE YOU - NF
 - 📱 My [Twitter](https://twitter.com/DiogenesPotrich)
 
 ***
-> "Success is not final; failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
 
 
 
