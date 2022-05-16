@@ -1,6 +1,6 @@
 # 𝑯𝒆𝒍𝒍𝒐👋
 
-![gifzin](https://i.gifer.com/3OLwi.gif)
+![gifzin](https://i.imgur.com/paVHFvE.gifv)
 
 
 - My name is Diógenes, I born in Santa Maria - RS and i'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
@@ -13,8 +13,9 @@
 - 🎬 Watch Netflix
 - 🎵 Listen Music
 
-#### Additional informations of the hobbies
-~~~Videogames
+### Some additional informations of the hobbies
+#### Videogames
+~~~
 CS:GO
 GTA V
 Dead By Daylight
@@ -23,7 +24,8 @@ The Division 2
 Rainbow Six Siege
 ~~~
 
-~~~Anime
+#### Anime
+~~~
 Kimetsu No Yaiba
 Shingeki No Kyojin
 Tomodachi Game
@@ -32,7 +34,8 @@ Jujutsu Kaisen
 Fullmetal Alchemist
 ~~~
 
-~~~Films And Series
+#### Films And Series
+~~~
 Inglourious Basterds
 Hacksaw Ridge
 Stranger Things
@@ -40,13 +43,12 @@ Peaky Blinders
 Cobra Kai
 ~~~
 
-~~~Musics
-Quem Tava Lá? - Costa Gold
+#### Musics
+~~~
 N.A.D.A.B.O.M PT 3 - Costa Gold
 Mi'aDama - Sidoka
 Do I Wanna Know? - Arctic Monkeys
 JUST LIKE YOU - NF
-O Descobridor Dos Sete Mares - Tim Maia
 ~~~
 
 ### Im Studying This programming languages
