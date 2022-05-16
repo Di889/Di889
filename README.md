@@ -1,67 +1,61 @@
 # 𝑯𝒆𝒍𝒍𝒐👋
 
-![gifzin](https://i.imgur.com/2CGv2Tz.gif)
+<img align="right" alt="primeirogif" height="450" style="border-radius:0px;" src="https://i.imgur.com/aNi71g3.gif">
 
+- My name is Diógenes, I born in Santa Maria - RS and I'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
 
-- My name is Diógenes, I born in Santa Maria - RS and i'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
+<div align="right">
+  <a href="https://github.com/Di889">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=Di889&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 ***
 
-### My Hobbies Are
+## My Hobbies Are
 - 💻 Browse in the Computer
 - 🎮 Play Videogames
 - 🎞 Watch Animes
-- 🎬 Watch Netflix
+- 🎬 Watch Films and Series
 - 🎵 Listen Music
 
-### Some additional informations of the hobbies
-#### Videogames
-~~~
-CS:GO
-GTA V
-Dead By Daylight
-League Of Legends
-The Division 2
-Rainbow Six Siege
-~~~
+## Just to make it clear
 
-#### Anime
-~~~
-Kimetsu No Yaiba
-Shingeki No Kyojin
-Tomodachi Game
-Charlotte
-Jujutsu Kaisen
-Fullmetal Alchemist
-~~~
+### My favourites 
+- **Anime Are**
+   - Charlotte
+   - Kimetsu no Yaiba
+   - Fullmetal Alchemist
+- **Games Are**
+   - CS:GO
+   - Dead By Daylight
+   - GTA V
+- **Films and Series Are**
+   - Stranger Things
+   - Inglourious Basterds
+   - Hacksaw Ridge
+- **Musics Are**
+   - The Search
+   - Do I Wanna Know?
+   - Red Right Hand
 
-#### Films And Series
-~~~
-Inglourious Basterds
-Hacksaw Ridge
-Stranger Things
-Peaky Blinders
-Cobra Kai
-~~~
 
-#### Musics
-~~~
-N.A.D.A.B.O.M PT 3 - Costa Gold
-Mi'aDama - Sidoka
-Do I Wanna Know? - Arctic Monkeys
-JUST LIKE YOU - NF
-~~~
-
-### Im Studying This programming languages
+### I'm studying this programming languages 
 - 👨🏻‍💻 C
 
-### Im Pretend Learn This programming languages
+### I'm pretend learn This programming languages
 - ⌨️ Java
 - 🖥 C++
 - 📟 C#
 
-### You Can Reach me through
-- ✉️ My Email: diogenes.steca@gmail.com
-- 📱 My [Twitter](https://twitter.com/DiogenesPotrich)
+### Profissional Aspirations
+- 💼 I intend graduate in the Law Course, but i like a lot Computation also
+then possibly I try something in the Computing Area.
+
+***
+ 
+### You can Reach me through
+<a href = "mailto:diogenes.steca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://mobile.twitter.com/DiogenesPotrich"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 ***
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
