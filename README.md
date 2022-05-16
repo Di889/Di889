@@ -1,6 +1,6 @@
 # 𝑯𝒆𝒍𝒍𝒐👋
 
-![gifzin](https://i.imgur.com/paVHFvE.gifv)
+![gifzin](https://i.imgur.com/2CGv2Tz.gif)
 
 
 - My name is Diógenes, I born in Santa Maria - RS and i'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
