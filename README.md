@@ -61,12 +61,12 @@ then possibly I try something in the Computing Area.
 ### You can Reach me through
 <a href = "mailto:diogenes.steca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://mobile.twitter.com/DiogenesPotrich"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-
 ***
 > "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
 
-
-
+***
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-ff9900.svg)](https://html.com/about/)
 
 
 
