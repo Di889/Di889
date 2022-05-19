@@ -1,12 +1,12 @@
 # 𝑯𝒆𝒍𝒍𝒐👋
 
-<img align="right" alt="gifzin" height="500" style="border-radius:0px;" src="https://i.imgur.com/2CGv2Tz.gif">
+<img align="right" alt="gifzin" height="450" style="border-radius:0px;" src="https://i.imgur.com/2CGv2Tz.gif">
 
 - My name is Diógenes, I born in Santa Maria - RS and I'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
 
 <div align="right">
   <a href="https://github.com/Di889">
-  <img height="370em" src="https://github-readme-stats.vercel.app/api?username=Di889&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Di889&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ***
