@@ -4,7 +4,8 @@
 
 
 ## **About Me**
-***
+
+
 
 My name is Diógenes, I born in Santa Maria - RS and I'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
 
