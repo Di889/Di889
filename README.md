@@ -7,7 +7,7 @@
 
 
 
-My name is Diógenes, I born in Santa Maria - RS and I'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
+My name is Diógenes, I was born in Santa Maria - RS and I'm third-year student student of computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
 
 <div align="left">
   <a href="https://github.com/Di889">
@@ -24,14 +24,13 @@ My name is Diógenes, I born in Santa Maria - RS and I'm studying computing in [
 
 
 
-### I'm studying this programming languages 
-- 👨🏻‍💻 C
+### Programming languages that im learning or already have learned, ordened by a familiarity order:
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### I've already learned this programming languages
-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -136,8 +135,7 @@ My name is Diógenes, I born in Santa Maria - RS and I'm studying computing in [
 
 
 ### Profissional Aspirations
-- 💼 I intend graduate in the Law Course, but i like a lot Computation also,
-then possibly I try something in the Computing Area.
+- 💼 I intend to major in Computer Science 
 
 ***
  
